@@ -1,0 +1,62 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Transportation</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="final_css2.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+<div id="container">
+
+<div id="banner">
+	
+	</div> <!-- end banner-->
+	
+	<div id="title">
+	<h1>TRANSPORTATION</h1>
+	</div> <!-- end top -->
+	
+		<div id="sidebar">
+	<ul><li><a href="index.html">Home</a></li></ul>
+	<ul><li><a href="history.html">History</a></li></ul>
+	<ul><li><a href="historical_sites.html">Historical Sites</a></li></ul>
+	<ul><li><a href="schools.html">Schools</a></li></ul>
+	<ul><li><a href="cultures.html">Cultures</a></li></ul>
+	<ul><li><a href="dining.html">Dining</a></li></ul>
+	<ul><li><a href="transportation.html">Transportation</a></li></ul>
+	<ul><li> <a href="famous_people.html">Famous People</a></li>
+			</ul>
+
+		</div>
+	<!-- sidebar-->
+		
+		<div id="content">
+		<p> Public transportation service is provided by the Metropolitan 
+		Transportation Authority. This includes the New York City Subway and MTA 
+		Regional Bus Operations, as well as a Metro-North commuter rail stop at 
+		East 125th Street, connecting Westchester County with New York City. 
+		Some Bronx local routes also serve Manhattan, to provide customers with 
+		access between both boroughs.<br />
+		<br />
+		Subway routes include:<br />
+		<br />
+		IRT Lenox Avenue Line (2 3 trains)<br />
+		IRT Broadway – Seventh Avenue Line (1 train)<br />
+		IRT Lexington Avenue Line (4 5 6trains at 125th Street)<br />
+		IND Eighth Avenue Line (A B C D trains)<br />
+		IND Concourse Line (B D trains at 155th Street)<br />
+		Future: IND Second Avenue Line<br />
+		Bus routes include:<br />
+		<br />
+		M1, M2, M3, M4, M5, M7, M10, M11, M15, M15 SBS, M35, M60 SBS, M100, 
+		M101, M102, M103, M104, and M116 (Manhattan buses)</p>
+			<p> <br />
+			Bx6, Bx15, Bx19, and Bx33 (Bronx buses)</p>
+		</div><!-- end content-->
+		<div id="footer">Copyright 2014 J.P. INC</div>
+</div> <!-- end container -->
+</body>
+
+</html>

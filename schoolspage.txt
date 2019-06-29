@@ -1,0 +1,66 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Schools</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="final_css2.css" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Halant' rel='stylesheet' type='text/css'/>
+</head>
+
+<body>
+<div id="container">
+
+<div id="banner">
+
+	
+	</div> <!-- end banner-->
+	
+	<div id="title">
+	<h1>SCHOOLS</h1>
+	</div> <!-- end top -->
+	
+		<div id="sidebar">
+	<ul><li><a href="index.html">Home</a></li></ul>
+	<ul><li><a href="history.html">History</a></li></ul>
+	<ul><li><a href="historical_sites.html">Historical Sites</a></li></ul>
+	<ul><li><a href="schools.html">Schools</a></li></ul>
+	<ul><li><a href="cultures.html">Cultures</a></li></ul>
+	<ul><li><a href="dining.html">Dining</a></li></ul>
+	<ul><li><a href="transportation.html">Transportation</a></li></ul>
+	<ul><li> <a href="famous_people.html">Famous People</a></li>
+			</ul>
+
+		</div>
+	<!-- sidebar-->
+		
+		<div id="content">
+		<p> City College of New York is a senior college and the oldest CUNY 
+		located in Harlem. It's setting is urban and the campus size is 35 
+		acres. It offers undergraduate programs in Liberal Arts, Architecture, 
+		Science &amp; Engineering, and Biomedical Education. City College has a 
+		diverse student body, representing 159 countries and speaking in 109 
+		languages other than English.They offer a number of student services including nonremedial tutoring, 
+		placement service, day care, and health service. CUNY--City College also 
+		offers campus safety and security services like 24-hour foot and vehicle 
+		patrols, late night transport/escort service, 24-hour emergency 
+		telephones, lighted pathways/sidewalks, and controlled dormitory access 
+		(key, security card, etc). Alcohol is not permitted for students of 
+		legal age.<img alt="City college image" height="300" src="Final_Images/citycollege.JPG" width="400" /></p>
+		&nbsp;<p>Columbia University is a private Ivy League university. It's  setting is urban and the campus size is 36 acres. 
+			Columbia is compormised of three undergraduate schools: Columbia 
+			College, The Fu Foundation School of Engineering and Applied Science 
+			and the School of General Studies.Columbia University offers a number of student services including nonremedial 
+			tutoring, placement service, health service, and health insurance. 
+			Columbia University also offers campus safety and security services 
+			like 24-hour foot and vehicle patrols, late night transport/escort 
+			service, 24-hour emergency telephones, lighted pathways/sidewalks, 
+			and controlled dormitory access (key, security card, etc). Alcohol 
+			is permitted for students of legal age at Columbia University.
+			</p>
+<img alt="Columbia University Image" height="263" src="Final_Images/columbia.jpg" width="600" />
+		</div><!-- end content-->
+		<div id="footer">Copyright 2014 J.P. INC</div>
+</div> <!-- end container -->
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>History of Harlem</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="final_css2.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+
+<div id="banner">
+
+	</div> <!-- end banner-->
+	
+	<div id="title">
+	<h1>HISTORY OF HARLEM</h1>
+	</div> <!-- end top -->
+	
+		<div id="sidebar">
+	<ul><li><a href="index.html">Home</a></li></ul>
+	<ul><li><a href="history.html">History</a></li></ul>
+	<ul><li><a href="historical_sites.html">Historical Sites</a></li></ul>
+	<ul><li><a href="schools.html">Schools</a></li></ul>
+	<ul><li><a href="cultures.html">Cultures</a></li></ul>
+	<ul><li><a href="dining.html">Dining</a></li></ul>
+	<ul><li><a href="transportation.html">Transportation</a></li></ul>
+	<ul><li> <a href="famous_people.html">Famous People</a></li></ul>
+
+		</div> <!-- sidebar-->
+		
+		<div id="content">
+			<img alt="" height="262" src="Final_Images/NYC-harlem.jpeg" width="350" />
+			<p>
+			Harlem is known internationally as the Black Mecca of the world, but 
+			Harlem has been home to many races and ethnic groups including the 
+			Dutch, Irish, German, Italian, and Jewish. Harlem was originally 
+			settled by the Dutch in 1658, but was largely farmland and 
+			undeveloped territory for approximately 200 years. As New York’s 
+			population grew, residential and commercial expansion moved 
+			northward, and development of the Harlem territory was evitable. Blacks continued to pour into Harlem from points in lower Manhattan, 
+			the American South and the Caribbean.&nbsp; Blacks migrated in record numbers from the 
+			south to northern cities in search of opportunities and increased 
+			wages. During the 1920’s, Harlem flourished with cultural and artistic 
+			expression. This period was christened the “Harlem Renaissance”. 
+			Harlem Renaissance figures such as Langston Hughes, Aaron Douglas, 
+			Alain Locke and others felt that they would use their artistic 
+			creativity as a means to show America and the world that Blacks are 
+			intellectual, artistic and humane and should be treated accordingly.The Great Depression of 1929 rocked the country and devastated Black 
+			communities such as Harlem. The pressure of high rents, unemployment 
+			and racist practices cumulated in Harlem riots in 1935 and 1943. (Source: harlemheritage.com)</p>
+			<img alt="Old image of Harlem" src="Final_Images/Harlem.jpg" height="299" width="450" />
+		</div><!-- end content-->
+		<div id="footer">Copyright 2014 J.P. INC</div>
+</div> <!-- end container -->
+</body>
+
+</html>

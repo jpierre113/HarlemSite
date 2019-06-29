@@ -1,0 +1,42 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Harlem NYC</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="final_css2.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+
+<div id="banner">
+
+
+		</div> <!-- end banner-->
+	
+	<div id="title">
+	<h1>WELCOME TO HARLEM</h1>
+	</div> <!-- end top -->
+	
+		<div id="sidebar">
+	<ul><li><a href="index.html">Home</a></li></ul>
+	<ul><li><a href="history.html">History</a></li></ul>
+	<ul><li><a href="historical_sites.html">Historical Sites</a></li></ul>
+	<ul><li><a href="schools.html">Schools</a></li></ul>
+	<ul><li><a href="cultures.html">Cultures</a></li></ul>
+	<ul><li><a href="dining.html">Dining</a></li></ul>
+	<ul><li><a href="transportation.html">Transportation</a></li></ul>
+	<ul><li> <a href="famous_people.html">Famous People</a></li></ul>
+
+		</div> <!-- sidebar-->
+		
+		<div id="content">
+		<p> Welcome to the homepage.Harlem is located in Manhatthan bewteen East 42nd street to East 142nd street. Click on 
+		the links in the side bar to see more information about Harlem.</p>
+		
+			<img alt="" height="398" src="wallpaint.jpg" width="640" /></div><!-- end content-->
+		<div id="footer">Copyright 2014 J.P. INC</div>
+</div> <!-- end container -->
+</body>
+
+</html>

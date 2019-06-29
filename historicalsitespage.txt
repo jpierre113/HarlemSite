@@ -1,0 +1,74 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Historical Sites</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="final_css2.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+<body>
+<div id="container">
+
+<div id="banner">
+	
+	</div> <!-- end banner-->
+	
+	<div id="title">
+	<h1>HISTORICAL SITES</h1>
+	</div> <!-- end top -->
+	
+		<div id="sidebar">
+	<ul><li><a href="index.html">Home</a></li></ul>
+	<ul><li><a href="history.html">History</a></li></ul>
+	<ul><li><a href="historical_sites.html">Historical Sites</a></li></ul>
+	<ul><li><a href="schools.html">Schools</a></li></ul>
+	<ul><li><a href="cultures.html">Cultures</a></li></ul>
+	<ul><li><a href="dining.html">Dining</a></li></ul>
+	<ul><li><a href="transportation.html">Transportation</a></li></ul>
+	<ul><li> <a href="famous_people.html">Famous People</a></li>
+			</ul>
+
+		</div>
+	<!-- sidebar-->
+		
+		<div id="content">
+		<img alt="Image of Cotton Club" src="Final_Images/cotton-club-1970.jpg" height="192" width="300" />
+		
+		<p>Shows 
+		at the Cotton Club were musical revues and several went under the 
+		heading of Cotton 
+		Club Paradeand 
+		would have the year they were being presented added to the title. The 
+		revues featured dancers, singers, comedians and variety acts, as well as 
+		a house band.</p>
+		
+		<img alt="Apollo Theather" src="Final_Images/Apollo%20Theater%20Facade,%202008.JPG" height="480" width="300" />
+		<p>Apollo Theater is a music hall which is a noted venue for African-American performers. It was the home of Showtime at the Apollo, a nationally syndicated television variety show which showcased new talent, from 1987 to 2008, encompassing 1093 episodes.
+
+The theater, which has a capacity of 1506, was built in 1913-14.</p>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div><!-- end content-->
+		<div id="footer">Copyright 2014 J.P. INC</div>
+</div> <!-- end container -->
+</body>
+
+</html>

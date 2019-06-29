@@ -1,0 +1,84 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Dining</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="final_css2.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+
+
+</style>
+</head>
+
+<body>
+<div id="container">
+
+<div id="banner">
+
+	
+	</div> <!-- end banner-->
+	
+	<div id="title">
+	<h1>DINING</h1>
+	</div> <!-- end top -->
+	
+		<div id="sidebar">
+	<ul><li><a href="index.html">Home</a></li></ul>
+	<ul><li><a href="history.html">History</a></li></ul>
+	<ul><li><a href="historical_sites.html">Historical Sites</a></li></ul>
+	<ul><li><a href="schools.html">Schools</a></li></ul>
+	<ul><li><a href="cultures.html">Cultures</a></li></ul>
+	<ul><li><a href="dining.html">Dining</a></li></ul>
+	<ul><li><a href="transportation.html">Transportation</a></li></ul>
+	<ul><li> <a href="famous_people.html">Famous People</a></li>
+			</ul>
+
+		</div>
+	<!-- sidebar-->
+		
+		<div id="content">
+		
+		<div class="pix">
+		<img alt="Slyvia's Resturant" src="Final_Images/sylvia2.jpg" height="172" width="250" />
+		<p> <a href="http://sylviasrestaurant.com/">Sylvia's Restaurant</a></p>
+		<p>328 Malcolm X Blvd
+		New York, NY 10027</p>
+		
+			</div>
+		
+		<div class="pix">
+		<img alt="Amy Ruth's Restaurant" src="Final_Images/amy-ruths-outside.jpg" height="173" width="270" />
+		<p><a href="http://www.amyruthsharlem.com/">Amy Ruth's</a></p>
+		<p>113 W 116th St
+		 New York, NY 10026</p>
+		
+		</div>
+		
+		<div class="pix">
+		<img alt="Red Rooster Image" src="Final_Images/alg_red-rooster-harlem.jpg" height="165" width="250" class="auto-style2" />
+		<p><a href="http://redroosterharlem.com/">Red Rooster</a></p>
+		<p>310 Lenox Ave, New York, NY 10027</p>
+		</div>
+		
+		<div class="pix">
+		<img alt="Make my Cake Bakery" src="Final_Images/1359697623Make%20My%20Cake%20Harlem.png" class="auto-style1" height="157" width="250" />
+		<p><a href="http://www.makemycake.com/">Make My Cake Bakery</a></p>
+		<p>121 St Nicholas Ave, New York, NY 10026</p>
+		</div>
+		
+		<div class="pix">
+		<img alt="" src="Final_Images/dinosaurBBQ.jpg" height="187" width="250" />
+		<p><a href="http://www.dinosaurbarbque.com/live-music-harlem">Dinosaur BBQ</a></p>
+		<p>700 W 125th St
+New York, NY 10027</p>
+		
+		</div>
+		
+		
+		
+		</div><!-- end content-->
+		<div id="footer">Copyright 2014 J.P. INC</div>
+</div> <!-- end container -->
+</body>
+
+</html>
